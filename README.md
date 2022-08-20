@@ -1,4 +1,4 @@
-# stickman
+# Vue-ts=template
 
 ## Project setup
 ```
