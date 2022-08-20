@@ -1,4 +1,4 @@
-# Vue-ts=template
+# Vue-ts-template
 
 ## Project setup
 ```
